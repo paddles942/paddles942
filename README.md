@@ -1,8 +1,8 @@
 ### Hi, I'm Amy
-- Currently studying Computer Science at....
-- Hold a Bachelor's Degree in Information Systems and Management from the Victoria University of Wellington, New Zealand
-- Currently learning about....
-- 
+- Currently studying Master of Cybersecurity with a specialisation in Digital Forensics
+- Hold a Postgraduate Certificate in Computer Science and a Bachelor's Degree in Information Systems and Management from the Victoria University of Wellington, New Zealand
+- Currently learning learn Power BI and expanding my skills in data analytics and visualisation 
+- Outside of technology, I'm passionate about gaming and investing
 
 
 ## Socials:
